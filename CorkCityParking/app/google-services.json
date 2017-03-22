@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "935138927281",
+    "firebase_url": "https://corkcityparking-3a501.firebaseio.com",
+    "project_id": "corkcityparking-3a501",
+    "storage_bucket": "corkcityparking-3a501.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:935138927281:android:f718b6fe807af698",
+        "android_client_info": {
+          "package_name": "com.example.micha.corkcityparking"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "935138927281-bbc20uehl35tf13lt9oimdjc3vqq9di9.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.micha.corkcityparking",
+            "certificate_hash": "54E7CE84D9029974D42E4FAA877E348A05E8F1B3"
+          }
+        },
+        {
+          "client_id": "935138927281-dk4jofb2j4f0d211te0kpmlf9e3grb3k.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCQ8DHAUiOmK1KcXkqs7_Wm6kMfXT-AmPA"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "935138927281-dk4jofb2j4f0d211te0kpmlf9e3grb3k.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

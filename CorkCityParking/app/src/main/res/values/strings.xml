@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Cork City Parking</string>
+    <string name="title_activity_parking_details">ParkingDetails</string>
+</resources>
